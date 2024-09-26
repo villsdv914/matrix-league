@@ -71,7 +71,7 @@ curl -F 'file=@/path/matrix.csv' "localhost:8080/echo"
 run  web server
 
 ```
-   go run .
+   make run
 ```
 upload file
 
